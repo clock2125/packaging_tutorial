@@ -12,3 +12,7 @@ def add_together(number1, number2):
 
 def new_func():
     print('new func')
+
+
+def new_new_func():
+    print('new new func')
