@@ -8,3 +8,7 @@ def add_two(number):
 
 def add_together(number1, number2):
     return number1 + number2
+
+
+def new_func():
+    print('new func')
