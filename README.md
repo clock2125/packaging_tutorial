@@ -2,4 +2,6 @@
 
 This is a simple example package.
 
+1.0.RELEASE
+
 Edit by zts2125.
