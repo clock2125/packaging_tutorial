@@ -5,15 +5,15 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="example-pkg-zts2125",
-    version="0.0.1",
+    version="1.0",
     author="zts2125",
     author_email="bitzhong@qq.com",
     description="A small example package",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/clock2125",
+    url="https://github.com/clock2125/packaging_tutorial",
     project_urls={
-        "Bug Tracker": "https://github.com/clock2125",
+        "Bug Tracker": "https://github.com/clock2125/packaging_tutorial",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
